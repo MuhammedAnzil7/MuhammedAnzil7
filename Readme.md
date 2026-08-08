@@ -90,7 +90,7 @@ Expanding beyond web basics into Python, MySQL, and C — building toward comple
 <a href="https://www.linkedin.com/in/muhammed-anzil-3428693a1"><img src="https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1a2e"/></a>
 <a href="https://instagram.com/mhd_anzzil_"><img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1a1a2e"/></a>
 <a href="https://guns.lol/TurL33"><img src="https://img.shields.io/badge/guns.lol-fff?style=for-the-badge&logo=linktree&logoColor=A78BFA&labelColor=1a1a2e"/></a>
-<img src="https://img.shields.io/badge/Discord-.zuperman__-fff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=1a1a2e"/>
+<a href="https://discord.com/users/1110844559992303637"><img src="https://img.shields.io/badge/Discord--fff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=1a1a2e"/>
 
 </td>
 </tr>
