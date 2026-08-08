@@ -84,7 +84,7 @@ Status:        Leveling up daily 🔺
   <a href="https://www.linkedin.com/in/muhammed-anzil-3428693a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/mhd_anzzil_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://guns.lol/TurL33"><img src="https://img.shields.io/badge/guns.lol-9146FF?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-.zuperman__-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/1110844559992303637"><img src="https://img.shields.io/badge/Discord-.zuperman__-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <p align="center"><i>"Started in Pawno. Building toward full-stack. This is just spawn point." 🚀</i></p>
