@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+glass+and+light+%E2%9C%A8;From+SA-MP+Pawno+scripting+to+full-stack;Learning+Python+%C2%B7+MySQL+%C2%B7+C" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=TurL33%E2%9C%A8;From+SA-MP+Pawno+scripting+to+full-stack;Learning+Python+%C2%B7+MySQL+%C2%B7+C" alt="Typing SVG"/>
 </p>
 
 <p align="center">
